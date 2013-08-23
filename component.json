@@ -1,0 +1,9 @@
+{
+  "name": "async-times",
+  "repo": "enricomarino/async-times",
+  "version": "0.0.1",
+  "description": "async times",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
